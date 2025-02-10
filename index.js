@@ -6,4 +6,4 @@ res.send('¡Hola, mundo desde Express!');
 });
 app.listen(PORT, () => {
 console.log(`Servidor corriendo en http://localhost:${PORT}`);
-})
+});
